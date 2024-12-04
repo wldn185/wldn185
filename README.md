@@ -1,6 +1,6 @@
 <!-- 타이틀 -->
 <div align="center">  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Jiwoo's%20Profile&fontSize=90&desc=Welcome%20to%20my%20Github!&descAlign=72&descAlignY=65" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=👋Jiwoo's%20Profile👋&fontSize=90&desc=Welcome%20to%20my%20Github!&descAlign=72&descAlignY=65" />
 </div>
 
 <!--내용 부분-->
@@ -61,10 +61,9 @@
   </a> -->
   <a href="mailto:dn74108@gmail.com">
     <img
-      src="https://img.shields.io/badge/dn74108@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+      src="https://img.shields.io/badge/dn74108@gmail.com-00ffff?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
 </div>
-## Hi there 👋
 
 <!--
 **wldn185/wldn185** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
