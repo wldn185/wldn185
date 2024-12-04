@@ -17,8 +17,8 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/bootstrap-340776.svg?style=for-the-badge&logo=bootstrap&logoColor=7952B3" />&nbsp
-  <img src="https://img.shields.io/badge/sass-#CC6699.svg?style=for-the-badge&logo=sass&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/bootstrap-white.svg?style=for-the-badge&logo=bootstrap&logoColor=7952B3" />&nbsp
+  <img src="https://img.shields.io/badge/sass-CC6699.svg?style=for-the-badge&logo=sass&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/php-777BB4.svg?style=for-the-badge&logo=react&logoColor=white" />&nbsp
 </div>
 
